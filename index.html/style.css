@@ -23,6 +23,15 @@ em strong{
     color: #ff0000;
 }
 
+h2{
+text-aligan: center;
+}
+
+.beneficios{
+    vbackgrond: #FFFFFF;
+    padding: 20px;
+}
+
 itens{
 
     font-style:italic;
