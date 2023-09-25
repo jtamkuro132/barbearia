@@ -1,10 +1,29 @@
-p{
+body {
+background: #cccccc;
+}
+
+#banner{
+
+}
+
+h1 {
     text-aling: center;
 }
 
-h1 {background-color: #cccc;
+p {
+    text-aling:center;
+    background#cccccc;
 }
 
-body{
-    background-color: #cccc;
+#missao{
+    font: size 20px;
+}
+
+em strong{
+    color: #ff0000;
+}
+
+itens{
+
+    font-style:italic;
 }
