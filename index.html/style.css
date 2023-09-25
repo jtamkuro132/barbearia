@@ -27,3 +27,14 @@ itens{
 
     font-style:italic;
 }
+
+.imagembeneficios {
+    WIDTH:M 50%;
+}
+
+ul {
+    display: insline-block;
+    vertical-alingn: top;
+    width: 20%;
+    margin-right; 15%;
+}
